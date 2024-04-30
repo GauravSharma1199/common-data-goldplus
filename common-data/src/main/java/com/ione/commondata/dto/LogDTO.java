@@ -18,6 +18,7 @@ public class LogDTO {
     private String parentId;
     
     private String apiName;
+    
     private String programName;
     private String content;
     private String description;
