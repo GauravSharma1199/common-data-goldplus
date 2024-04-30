@@ -16,6 +16,7 @@ public class LogDTO {
     public static final String PDF_UPLOAD_API_NAME  = "PDF_UPLOAD_API";
     private String id;
     private String parentId;
+    
     private String apiName;
     private String programName;
     private String content;
