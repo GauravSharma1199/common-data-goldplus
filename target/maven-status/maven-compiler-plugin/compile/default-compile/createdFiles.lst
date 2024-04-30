@@ -1,0 +1,5 @@
+com\ione\commondata\repo\ItemModuleRepository.class
+com\ione\commondata\dto\LogDTO.class
+com\ione\commondata\utility\ZohoApiCall.class
+com\ione\commondata\CommonDataApplication.class
+com\ione\commondata\entity\ItemMasterDetails.class
